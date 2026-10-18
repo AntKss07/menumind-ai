@@ -1,0 +1,11 @@
+name,category,price,ingredients,dietary
+Paneer Tikka,Starters,260,"Paneer (cottage cheese), hung curd (yogurt), bell peppers, onions, mustard oil, ginger-garlic paste, garam masala, kasuri methi","Vegetarian, Gluten-Free"
+Chicken 65,Starters,290,"Boneless chicken, ginger-garlic paste, red chili paste, curry leaves, lemon juice, yogurt, black pepper, cornstarch",Non-Vegetarian
+Masala Dosa,South Indian,140,"Fermented rice and urad dal batter, potatoes, onions, mustard seeds, green chilies, curry leaves, turmeric","Vegetarian, Vegan-friendly"
+Butter Chicken,Mains,360,"Tender roasted chicken, tomatoes, cashew nuts, butter, cream, ginger, garlic, kasuri methi, aromatic spices",Non-Vegetarian
+Dal Tadka,Mains,190,"Yellow toor dal, onions, tomatoes, cumin seeds, garlic, green chilies, ghee, turmeric, fresh coriander","Vegetarian, Gluten-Free"
+Vegetable Biryani,Rice & Biryani,240,"Aged basmati rice, mixed seasonal vegetables, saffron, mint leaves, fried onions, whole garam masala, yogurt","Vegetarian, Gluten-Free"
+Garlic Naan,Breads,60,"Refined wheat flour, minced garlic, butter, fresh coriander, yeast, milk",Vegetarian
+Gulab Jamun,Desserts,110,"Khoya (reduced milk solids), paneer, sugar syrup, cardamom, rose water, pistachios",Vegetarian
+Mango Lassi,Beverages,90,"Fresh mango pulp, chilled yogurt, milk, green cardamom powder, sugar","Vegetarian, Gluten-Free"
+South Indian Filter Coffee,Beverages,50,"Freshly brewed chicory-coffee decoction, full cream milk, sugar","Vegetarian, Gluten-Free"
