@@ -1,8 +1,6 @@
 # MenuMind AI 🍽️
 **Offline-First Multilingual AI Menu Creation Studio for Indian Restaurants**
 
-*Hacktoberfest 2026 — Week 2 Project*
-
 ---
 
 ## 📌 Problem & Target Customers
@@ -141,10 +139,6 @@ pytest -v
 
 ---
 
-## 📸 Screenshots
-
-*(Placeholders for documentation and demo showcases)*
-
 ```
 +-----------------------------------------------------------------------------------------+
 | [ HERO BANNER: MenuMind AI — Offline-First Multilingual Menu Studio ]                   |
@@ -201,6 +195,4 @@ Local IT consultants, agency freelancers, and POS vendors can monetize MenuMind 
 
 ---
 
-## 🎃 Hacktoberfest 2026 Context
 
-MenuMind AI was built as an open-source submission for Hacktoberfest 2026 (Week 2 Challenge). It addresses digital inclusion for regional Indian businesses through local, privacy-respecting, open-source AI.
